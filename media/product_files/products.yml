@@ -1,0 +1,29 @@
+- name: demon slayer manga
+  product_info:
+    quantity: 50
+    price: 1000
+    price_rrc: 900
+  product_parameter:
+    - parameter:
+        name: Ozod
+      value: ничего
+    - parameter:
+        name: Страницы
+      value: '100'
+  category:
+    name: anime
+- name: some again
+  product_info:
+    quantity: 30
+    price: 1000
+    price_rrc: 900
+  product_parameter:
+    - parameter:
+        name: Серии
+      value: '150'
+    - parameter:
+        name: Ozod
+      value: nothing
+  category:
+    name: anime
+
